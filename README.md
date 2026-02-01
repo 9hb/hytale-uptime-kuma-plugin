@@ -1,4 +1,4 @@
-# Uptime Kuma Push Plugin
+# Heartbeat Plugin (Uptime Kuma)
 
 A simple plugin for Hytale server that sends a periodic ping (using Push method) to your Uptime Kuma instance. This lets it know the server is up. If the ping doesn't arrive in time, it's gonna trigger a downtime alert.
 
