@@ -1,0 +1,22 @@
+{
+    "Group": "org.ninehb.hytaleplugin",
+    "Name": "UptimeKumaPing",
+    "Version": "0.1.0",
+    "Description": "Hytale server plugin for uptime reporting to Uptime Kuma",
+    "Authors": [
+        {
+            "ninehb": "https://amfex.xyz/"
+        }
+    ],
+    "Website": "https://amfex.xyz",
+    "ServerVersion": "*",
+    "Dependencies": {
+        
+    },
+    "OptionalDependencies": {
+        
+    },
+    "DisabledByDefault": false,
+    "Main": "org.ninehb.plugin.UptimeKumaPing.Main",
+    "IncludesAssetPack": false
+}
